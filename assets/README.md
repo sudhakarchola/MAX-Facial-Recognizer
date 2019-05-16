@@ -4,7 +4,7 @@
 
 Model files are from the [FaceNet model](https://github.com/davidsandberg/facenet) where they are available under an [MIT License](https://github.com/davidsandberg/facenet/blob/master/LICENSE.md).
 
-_Note_ the model files are hosted on [IBM Cloud Object Storage](http://max-assets.s3-api.us-geo.objectstorage.softlayer.net/facenet.tar.gz).
+_Note_ the model files are hosted on [IBM Cloud Object Storage](http://max-assets.s3.us.cloud-object-storage.appdomain.cloud/facial-recognizer/1.0/assets.tar.gz).
 
 ## Test Images
 
