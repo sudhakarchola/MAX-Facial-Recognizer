@@ -27,7 +27,7 @@ from __future__ import print_function
 
 from scipy import misc
 #from scipy.misc import pilutil as misc
-import imageio as misc
+#import imageio as misc
 import sys
 import os
 import argparse
